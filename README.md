@@ -7,9 +7,9 @@ Designing a data pipeline to ingest, process, and store incoming data from an ex
 
 ## Table of content
 
-- Project Description
-- Data
-- Assumptions
+- **Project Description**
+- **Data**
+- **Assumptions**
 
 
 ### Project Description 
