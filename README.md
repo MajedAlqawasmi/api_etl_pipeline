@@ -1,7 +1,7 @@
 # Mixpanel API Pipeline (Iteration 1)
 by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) March 2024
 <br/><br/>
-##  Designing a data pipeline to ingest, process, and store incoming data from an external source Using an API endpoint from Mixpanel. The main focus is to explore various processes involved in automating a data pipeline. The pipeline handles data transformations, validation, and loading into a BigQuery database for further analysis
+Designing a data pipeline to ingest, process, and store incoming data from an external source Using an API endpoint from Mixpanel. The main focus is to explore various processes involved in automating a data pipeline. The pipeline handles data transformations, validation, and loading into a BigQuery database for further analysis
 
 ## Table of content
 
