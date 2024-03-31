@@ -4,14 +4,6 @@ by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) March 2024
 Designing a data pipeline to ingest, process, and store incoming data from an external source Using an API endpoint from Mixpanel. The main focus is to explore various processes involved in automating a data pipeline. The pipeline handles data transformations, validation, and loading into a BigQuery database for further analysis
 
 
-
-## Table of content
-
-<u>**Project Description**</u><br>
-<u>**Data**</u><br>
-<u>**Assumptions**</u><br>
-
-
 ### Project Description 
 - Develop a data processing module to handle API requests from an endpoint in Mixpanel, and extract any information relevant for business analysis
 - Implement data validation and cleansing Python functions to validate and clean incoming data, by including checks for data completeness and consistency
