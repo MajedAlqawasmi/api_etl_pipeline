@@ -12,7 +12,7 @@ Designing a data pipeline to ingest, process, and store incoming data from an ex
 
 
 ## Data
-Three data frames can be found here [here](https://developer.mixpanel.com/reference/cohorts-list)
+Mixpanel data endpoint can be found here [here](https://developer.mixpanel.com/reference/cohorts-list)
 
 
 ## Assumptions
