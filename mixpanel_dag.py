@@ -9,7 +9,7 @@ default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
     'start_date': datetime(2024, 4, 1),
-    'email': ['majed.alqawasmi@up42.com'],
+    'email': ['majed.alqawasmi@gmail.com'],
     'email_on_failure': True,
     'email_on_retry': False,
     'retries': 3,
